@@ -36,6 +36,9 @@
   ],
   "contributors": [
     {
+      "name": "Test User"
+    },
+    {
       "name": "Brian Han",
       "email": "bthan@us.ibm.com"
     },
