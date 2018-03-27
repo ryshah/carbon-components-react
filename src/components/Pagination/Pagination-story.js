@@ -8,6 +8,7 @@ const props = {
     console.log(`Page: ${page}`, `Page Size: ${pageSize}`); // eslint-disable-line no-console
   },
   pageSizes: [10, 20, 30, 40, 50],
+  onChangeTimeout: 3000,
 };
 
 storiesOf('Pagination', module)
